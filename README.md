@@ -26,8 +26,6 @@ Skills: PHP/ JAVASCRIPT/ REACT / JS / HTML / CSS/ BOOTSTRAP
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImRanKhan81m)  
 
-![GitHub metrics](https://metrics.lecoq.io/ImRanKhan81m)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ImRanKhan81m)  
 
 ![Profile views](https://gpvc.arturio.dev/ImRanKhan81m)  
