@@ -1,6 +1,6 @@
 
 
-# Hi🙋‍♂️ I'm IMRAN HOSSEN
+# Hi👋, I'm IMRAN HOSSEN
 #### Full-Stack Web Developer
 
 
