@@ -1,4 +1,4 @@
-![Web Developer](https://sagaratechnology.com/blog/wp-content/uploads/2021/05/How-to-Become-a-Web-Developer.jpg)
+
 
 # Hi there 👋, My name is IMRAN HOSSEN
 #### Full-Stack Web Developer
