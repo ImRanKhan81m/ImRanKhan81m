@@ -1,7 +1,7 @@
 
 
 # Hi👋, I'm IMRAN HOSSEN
-#### Full-Stack Web Developer
+#### Web Developer
 
 
 I'm a Front End Web Developer who is passionate about
