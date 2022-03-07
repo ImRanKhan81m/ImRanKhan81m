@@ -5,9 +5,9 @@
 
 
 I'm a Front End Web Developer who is passionate about
-making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. I enjoy working with include ReactJS, JavaScripta as well as PHP.
+making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. I enjoy working with include ReactJS and JavaScripta.
 
-Skills: PHP/ JAVASCRIPT/ REACT / JS / HTML / CSS/ BOOTSTRAP
+Skills: JAVASCRIPT/ REACT / JS / HTML / CSS/ BOOTSTRAP
 
 - 🔭 I’m currently working on Online Marketplace. 
 - 🌱 I’m currently learning JavaScript 
