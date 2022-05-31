@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Full Stack Web Development at Programming Hero
 - ⚡ I love learning new technologies 
 - 📫 Email: hossenimran564@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ImRanKhan81m&label=Profile%60views&color=E4405F&style=flat" alt="ImRanKhan81m" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ImRanKhan81m&label=Profile%20views&color=E4405F&style=flat" alt="ImRanKhan81m" /> </p>
 
 ## Connect with Me
 
