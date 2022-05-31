@@ -1,6 +1,6 @@
 
 <!-- Welcome Message-->
-<h1>Hey! I'm IMRAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1>Hey! I'm Imran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 - 💻 Jr. MERN Stack Web Developer
 - 🌱 I’m currently learning Full Stack Web Development at Programming Hero
