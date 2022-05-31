@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Full Stack Web Development at Programming Hero
 - ⚡ I love learning new technologies 
 - 📫 Email: hossenimran564@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20views&color=E4405F&style=flat" alt="saminravi99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ImRanKhan81m&label=Profile%20views&color=E4405F&style=flat" alt="ImRanKhan81m" /> </p>
 
 ## Connect with Me
 
@@ -73,14 +73,14 @@
 
 ## My Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saminravi99&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImRanKhan81m&hide_border=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saminravi99&show_icons=true&hide_border=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImRanKhan81m&show_icons=true&hide_border=true&theme=tokyonight)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saminravi99&theme=tokyonight)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ImRanKhan81m&theme=tokyonight)  
  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saminravi99&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImRanKhan81m&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
 
 
 
