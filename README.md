@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning Full Stack Web Development.
 - ⚡ I love learning new technologies 
 - 📫 Email: hossenimran564@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ImRanKhan81m&label=Profile%20views&color=E4405F&style=flat" alt="ImRanKhan81m" /></p>
+
+[![Github](https://img.shields.io/github/followers/ImRanKhan81m?label=Follow&style=social)](https://github.com/ImRanKhan81m)&nbsp;![Profile views](https://gpvc.arturio.dev/ImRanKhan81m)
 
 ## Connect with Me
 
@@ -57,12 +58,41 @@
 
 
 
+<br/> <br/>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<!-- <a href='' target="_blank"><img height="30" width="40" src=''></a> -->
+<a href="mailto:hossenimran564@gmail.com" target="_blank" rel="noopener" ><img align="center" src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="40"/></a>&nbsp;
+<a href="https://stackoverflow.com/users/18061145/md-imran-hossen" target="_blank" rel="noopener" ><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" height="30" width="40"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/imran81m/" target="_blank" rel="noopener"><img align="center" src="https://rawcdn.githack.com/progmamun/demo/bb7255483e0e917d6dab306620eb7ae8b94ba04c/storage/tempfiles/Asset%2019rgblogo.jpg" height="30" width="40" /></a><a href="https://twitter.com/OMBAZAR1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imran81m/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="progmamun" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ImRanKhan81m/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlmamunkhanDev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imran_hossen81/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progmamun" height="30" width="40" /></a>
+</p>
+<br>
+<br />
 
 <!--![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
 
-<!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+<p align="center">
+   <table align="center">
+   <h1 align="center">Github Stats</h1>
+       <tr >
+       <td><img alt="imran :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ImRanKhan81m&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="imran :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRanKhan81m&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ImRanKhan81m&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
 
+
+
+
+
+<!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 
 
@@ -72,14 +102,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
 
 
-## My Stats 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImRanKhan81m&hide_border=true&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImRanKhan81m&show_icons=true&hide_border=true&theme=tokyonight)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ImRanKhan81m&theme=tokyonight)  
- 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImRanKhan81m&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
 
