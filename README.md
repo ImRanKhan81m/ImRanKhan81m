@@ -1,6 +1,10 @@
 
 <!-- Welcome Message-->
 
+<!-- banner image starts here  -->
+<img alt="imran" src="https://i.ibb.co/Q6DxcXy/Github.png" width="100%"/>
+<!-- banner image ends here  -->
+
 <h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Imran Hossen</h1>
 
 <h3 align="center">MERN Stack Web Developer</h3>
