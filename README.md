@@ -9,6 +9,11 @@
 
 <h3 align="center">MERN Stack Web Developer</h3>
 <br />
+<p align="center"> 
+  Visitor count<br/><br />
+  <img src="https://profile-counter.glitch.me/ImRanKhan81m/count.svg" />
+</p>
+
 <br />
 
 💻 Jr. MERN Stack Web Developer
@@ -29,6 +34,8 @@
 <br />
 
 [![Github](https://img.shields.io/github/followers/ImRanKhan81m?label=Follow&style=social)](https://github.com/ImRanKhan81m)&nbsp;![Profile views](https://gpvc.arturio.dev/ImRanKhan81m)
+<br/>
+![Code Time](http://img.shields.io/badge/Code%20Time-2729%20hrs%2037%20mins-Blue)
 
 
 ## <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies and Tools that I know</h2>
@@ -77,6 +84,9 @@
 <br>
 
 <!--![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
+
+ 
+<!-- ========================================================================================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
 
 <p align="center">
    <table align="center">
