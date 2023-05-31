@@ -106,7 +106,7 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImRanKhan81m&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImRanKhan81m&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)   -->
 
 
 
