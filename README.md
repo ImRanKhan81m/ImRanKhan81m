@@ -34,8 +34,7 @@
 
 <br />
 
-[![Github](https://img.shields.io/github/followers/ImRanKhan81m?label=Follow&style=social)](https://github.com/ImRanKhan81m)&nbsp;![Profile views](https://gpvc.arturio.dev/ImRanKhan81m)
-<br/>
+[![Github](https://img.shields.io/github/followers/ImRanKhan81m?label=Follow&style=social)](https://github.com/ImRanKhan81m)&nbsp; <!-- ![Profile views](https://gpvc.arturio.dev/ImRanKhan81m) -->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2729%20hrs%2037%20mins-Blue)
 
 
