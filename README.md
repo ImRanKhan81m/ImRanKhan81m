@@ -23,7 +23,7 @@
 
 ⚡ I love learning new technologies 
 
-📫 Email: hossenimran564@gmail.com
+📫 Email: imranhossen81m@gmail.com
 
 #### :muscle: Things I am challenging myself with:
 
