@@ -35,8 +35,9 @@
 
 <br />
 
-[![Github](https://img.shields.io/github/followers/ImRanKhan81m?label=Follow&style=social)](https://github.com/ImRanKhan81m)&nbsp; <!-- ![Profile views](https://gpvc.arturio.dev/ImRanKhan81m) -->
-![Code Time](http://img.shields.io/badge/Code%20Time-2729%20hrs%2037%20mins-Blue)
+[![Github](https://img.shields.io/github/followers/ImRanKhan81m?label=Follow&style=social)](https://github.com/ImRanKhan81m)&nbsp;<!-- ![Profile views](https://gpvc.arturio.dev/ImRanKhan81m) -->
+[![wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@b91aacce-e1eb-46ee-8af4-b4fe37728d49)
+<!--! [Code Time](http://img.shields.io/badge/Code%20Time-2729%20hrs%2037%20mins-Blue) -->
 
 
 ## <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies and Tools that I know</h2>
