@@ -1,8 +1,8 @@
 <!-- Welcome Message-->
 
-
+<!-- https://i.ibb.co/Q6DxcXy/Github.png -->
 <!-- banner image starts here  -->
-<img alt="imran" src="https://i.ibb.co/Q6DxcXy/Github.png" width="100%"/>
+<img alt="imran" src="https://i.ibb.co/MhLTHXR/imran-github.png" width="100%"/>
 <!-- banner image ends here  -->
 
 <h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Imran Hossen</h1>
