@@ -19,7 +19,7 @@
 
 <br />
 
-💻 Jr. MERN Stack Web Developer
+💻 Full Stack Web Developer
 
 🌱 I’m currently learning Full Stack Web Development.
 
