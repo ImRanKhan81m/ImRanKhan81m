@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Imran Hossen</h1>
 
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <br />
 <p align="center"> 
   Visitor count<br/><br />
@@ -18,9 +18,7 @@
 
 <br />
 
-💻 Full Stack Web Developer
-
-🌱 I’m currently learning Full Stack Web Development.
+💻 Full Stack Developer
 
 ⚡ I love learning new technologies 
 
