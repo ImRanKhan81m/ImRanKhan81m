@@ -14,15 +14,26 @@
   <img src="https://profile-counter.glitch.me/ImRanKhan81m/count.svg" alt="Visitor count" /><br/>Visitor Count
 </p>
 
- 
+ <!-- Personal Challenges Section with Flex Layout -->
+   <div > 
+      <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+    </div>
+<div align='left'>
+    <!-- Personal Challenges Content -->
+  <br/>
+    <div style="flex: 1; padding-right: 20px;">
+        <h3>:muscle: Personal Challenges</h3>
+        <ul>
+            <li>🌅 Waking up early to boost productivity.</li>
+            <li>💻 Coding 6+ hours daily on complex projects.</li>
+            <li>🏋️ Exercising 3 times a week for balance.</li>
+            <li>📚 Earning new certifications in development.</li>
+            <li>🎯 Contributing to open-source regularly.</li>
+        </ul>
+    </div> 
+  
+</div>
 
-### :muscle: Personal Challenges
-
-- 🌅 Waking up early to boost productivity.
-- 💻 Coding 6+ hours daily on complex projects.
-- 🏋️ Exercising 3 times a week for balance.
-- 📚 Earning new certifications in development.
-- 🎯 Contributing to open-source regularly.
 
 [![Github](https://img.shields.io/github/followers/ImRanKhan81m?label=Follow&style=social)](https://github.com/ImRanKhan81m)&nbsp;<!-- ![Profile views](https://gpvc.arturio.dev/ImRanKhan81m) -->
 [![wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@b91aacce-e1eb-46ee-8af4-b4fe37728d49)
