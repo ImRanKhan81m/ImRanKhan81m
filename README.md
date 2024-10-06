@@ -19,7 +19,7 @@
 ### :muscle: Personal Challenges
 
 - 🌅 Waking up early to boost productivity.
-- 💻 Coding 4+ hours daily on complex projects.
+- 💻 Coding 6+ hours daily on complex projects.
 - 🏋️ Exercising 3 times a week for balance.
 - 📚 Earning new certifications in development.
 - 🎯 Contributing to open-source regularly.
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,figma,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,git,heroku,netlify,docker,aws,gcp,azure,postman,vscode,linux,windows,discord,trello,jira" />
 </p>
 
----
+
 
 <h3 align="center">📬 Connect with Me:</h3>
 <p align="center">
@@ -46,19 +46,16 @@
   <a href="https://www.instagram.com/imran_hossen81/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
 </p>
 
----
+
 
 ### <h2><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50"> Github Stats</h2>
 <p align="center">
   <img alt="imran :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ImRanKhan81m&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
   <img alt="imran :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRanKhan81m&langs_count=10&theme=blue-green&layout=compact&hide=html" />
   <img alt="imran :: Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ImRanKhan81m&theme=blue-green&hide_border=true" />
-</p>
+</p> 
 
-<!-- WakaTime Stats -->
-[![Wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@b91aacce-e1eb-46ee-8af4-b4fe37728d49)
 
----
 
 <!-- GitHub Activity Graph -->
 <!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImRanKhan81m&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true) -->
