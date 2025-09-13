@@ -12,14 +12,14 @@ src="https://i.ibb.co/F0CY4Qr/imran-github.png" width="100%"/> -->
  
 <br/> 
  
-<p align="center">
+ <!-- <p align="center">
   <img src="https://profile-counter.glitch.me/ImRanKhan81m/count.svg" alt="Visitor count" /><br/>Visitor Count
-</p>
+</p>  -->
 
- <!-- Personal Challenges Section with Flex Layout -->
+ <!-- Personal Challenges Section with Flex Layout 
    <div > 
       <img align='right' src="https://my-portfolio-brown-nine-34.vercel.app/static/media/animation_500_lc2bfz78.72a973a6134ce972aed7.gif" width="300">
-    </div>
+    </div> -->
 <div align='left'>
     <!-- Personal Challenges Content -->
   <br/>
