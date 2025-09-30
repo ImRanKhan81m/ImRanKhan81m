@@ -1,7 +1,7 @@
 <!-- Welcome Banner -->
 <!-- <img alt="imran" 
 src="https://i.ibb.co/F0CY4Qr/imran-github.png" width="100%"/> -->
-<img alt="imran hossen" src="https://i.ibb.co.com/vmJgtdp/Imran-Hossen.png" width="100%"/>
+<!-- <img alt="imran hossen" src="https://i.ibb.co.com/vmJgtdp/Imran-Hossen.png" width="100%"/> -->
 
 <h1 align="center">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Imran Hossen</h1>
 
