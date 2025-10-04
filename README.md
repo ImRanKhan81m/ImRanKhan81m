@@ -63,7 +63,15 @@ src="https://i.ibb.co/F0CY4Qr/imran-github.png" width="100%"/> -->
   <a href="https://www.instagram.com/imran_hossen81/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
 </p>
 
+### 📈 Monthly Contribution Stats
 
+<a href="https://github.com/ImRanKhan81m">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImRanKhan81m&theme=react-dark&radius=8&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ImRanKhan81m&radius=8&area=true" />
+  <img alt="activity-graph" src="activity-graph.svg" />
+</picture>
+</a>
 
 ### <h2><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50"> Github Stats</h2>
 <p align="center">
