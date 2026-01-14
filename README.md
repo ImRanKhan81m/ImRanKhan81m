@@ -78,6 +78,16 @@ src="https://i.ibb.co/F0CY4Qr/imran-github.png" width="100%"/> -->
 </picture> -->
 
 ### <h2><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50"> Github Stats</h2>
+
+<p align="center">
+
+  <a href="https://github.com/asifmuntasir">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImRanKhan81m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImRanKhan81m&layout=compact&langs_count=10&theme=algolia"/>
+  </a>
+
+</p>
+
 <p align="center">
   <img alt="imran :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ImRanKhan81m&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
   <img alt="imran :: Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRanKhan81m&langs_count=10&theme=blue-green&layout=compact&hide=html" />
